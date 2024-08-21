@@ -2,12 +2,49 @@
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. 
 What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+  Writing maintainable, readable, and adaptable programs is key to efficient development. For instance, the CRUD Python module from Project One was designed with these principles, enabling seamless integration with the dashboard 
+widgets in Project Two. This approach made it easier to manage database operations and ensured the code was modular and reusable. The advantage was clear: the module could be adapted for different projects without starting from
+scratch. In the future, this CRUD module could be repurposed for other applications requiring database interaction, saving time and reducing errors.
 
 #######################################################################################################################################################################################################################################
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. 
 How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+  As a computer scientist, I approach problems with a structured process:
+
+      1. Understand Requirements: I start by deeply understanding the problem and requirements. For Grazioso Salvare, this meant understanding their needs for database management and dashboard features.
+      2. Design and Plan: I then design a solution that fits these needs, creating a database schema and a dashboard that offers clear, interactive visuals.
+      3. Implement: I write clean, modular code. For this project, I used the CRUD Python module for database management and integrated it with the dashboard using the Dash framework.
+      4. Test and Iterate: I test the solution for functionality, usability, and performance, refining it based on feedback and test results.
+      5. Document and Maintain: Finally, I document the solution to ensure it’s understandable and maintainable.
+
+  Differences from Previous Assignments:
+      This project required integrating various components and ensuring they worked together, unlike previous assignments which were often more focused on single tasks.
+
+Future Techniques and Strategies:
+
+      -Thorough Requirements Analysis: Deeply understand client needs before designing.
+      -Modular Design: Use reusable components for easier maintenance.
+      -Agile Practices: Refine solutions through iterative development and feedback.
+      -Performance and Scalability: Design for performance and scalability.
+      -These strategies help create effective databases and applications that can adapt to future needs.
 
 ######################################################################################################################################################################################################################################33
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+  
+  Computer scientists create software solutions to solve problems, enhance efficiency, and drive innovation. They analyze needs, design algorithms, and build systems to achieve specific objectives.
+
+  Why It Matters:
+
+      - Problem Solving: They address complex issues by developing effective tools.
+      - Efficiency: They automate and streamline processes, saving time and reducing errors.
+      - Innovation: They advance technology, leading to new products and services.
+
+    Impact on Grazioso Salvare:
+
+      1. Enhanced Efficiency: My dashboard and database solutions help Grazioso Salvare manage and analyze data more effectively, saving time.
+      2. Better Decision-Making: Interactive visualizations and data tools support informed decisions on animal training and rescue.
+      3. Scalability: The solutions are built to grow with the company, accommodating more data and complexity.
+
+    Overall, computer science improves tools and systems, helping companies achieve their goals and adapt to new challenges.
